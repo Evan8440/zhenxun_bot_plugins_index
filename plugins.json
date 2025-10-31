@@ -226,5 +226,17 @@
     "plugin_type": "NORMAL",
     "is_dir": true,
     "github_url": "https://github.com/webjoin111/zhenxun-plugin-ai_creation"
+  },
+  {
+    "name": "21点",
+    "module": "casino_21",
+    "module_path": "casino_21",
+    "description": "21 点小游戏",
+    "usage": "真寻的小赌场又开张了，发送 21点帮助 获取详细内容",
+    "author": "Evan8440",
+    "version": "3.0",
+    "plugin_type": "NORMAL",
+    "is_dir": true,
+    "github_url": "https://github.com/Evan8440/zhenxun_plugin_casino_21"
   }
 ]
